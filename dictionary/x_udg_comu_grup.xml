@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user_group" label="Grup" max_length="40" name="x_udg_comu_grup" type="collection"/>
+</database>
