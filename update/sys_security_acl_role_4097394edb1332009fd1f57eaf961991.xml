@@ -16,7 +16,7 @@
         <sys_update_name>sys_security_acl_role_4097394edb1332009fd1f57eaf961991</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
         <sys_updated_on>2017-06-13 09:16:58</sys_updated_on>
-        <sys_user_role display_value="x_udg_comu.grup_user" name="x_udg_comu.grup_user">3b87fd0edb1332009fd1f57eaf961948</sys_user_role>
+        <sys_user_role display_value="x_udg_comu.Grups_Manager" name="x_udg_comu.Grups_Manager">3b87fd0edb1332009fd1f57eaf961948</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

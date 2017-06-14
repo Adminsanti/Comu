@@ -7,21 +7,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_udg_comu.grup_user</name>
-        <suffix>grup_user</suffix>
+        <name>x_udg_comu.Grups_Manager</name>
+        <suffix>Grups_Manager</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-06-13 09:16:57</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>3b87fd0edb1332009fd1f57eaf961948</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_udg_comu.grup_user</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_udg_comu.Grups_Manager</sys_name>
         <sys_package display_value="Comu UdG" source="x_udg_comu">b4e6b90edb1332009fd1f57eaf961984</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Comu UdG">b4e6b90edb1332009fd1f57eaf961984</sys_scope>
         <sys_update_name>sys_user_role_3b87fd0edb1332009fd1f57eaf961948</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-06-13 09:16:57</sys_updated_on>
+        <sys_updated_on>2017-06-13 16:47:01</sys_updated_on>
     </sys_user_role>
 </record_update>

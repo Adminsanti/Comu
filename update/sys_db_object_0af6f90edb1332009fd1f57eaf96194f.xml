@@ -23,7 +23,7 @@
         <sys_created_on>2017-06-13 09:16:58</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>0af6f90edb1332009fd1f57eaf96194f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Grup</sys_name>
         <sys_package display_value="Comu UdG" source="x_udg_comu">b4e6b90edb1332009fd1f57eaf961984</sys_package>
         <sys_policy/>
@@ -31,9 +31,9 @@
         <sys_scope display_value="Comu UdG">b4e6b90edb1332009fd1f57eaf961984</sys_scope>
         <sys_update_name>sys_db_object_0af6f90edb1332009fd1f57eaf96194f</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-06-13 09:16:58</sys_updated_on>
+        <sys_updated_on>2017-06-13 17:35:44</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_udg_comu.grup_user" name="x_udg_comu.grup_user">3b87fd0edb1332009fd1f57eaf961948</user_role>
-        <ws_access>false</ws_access>
+        <user_role display_value="x_udg_comu.Grups_Manager" name="x_udg_comu.Grups_Manager">3b87fd0edb1332009fd1f57eaf961948</user_role>
+        <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
