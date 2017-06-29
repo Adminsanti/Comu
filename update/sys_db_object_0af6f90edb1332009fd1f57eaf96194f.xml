@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-06-13 09:16:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0af6f90edb1332009fd1f57eaf96194f</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Grup</sys_name>

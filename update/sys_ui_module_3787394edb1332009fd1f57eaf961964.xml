@@ -12,7 +12,7 @@
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-06-13 09:16:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3787394edb1332009fd1f57eaf961964</sys_id>

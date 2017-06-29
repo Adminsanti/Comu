@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app_category">
+    <sys_app_category action="INSERT_OR_UPDATE">
+        <default_order/>
+        <name>UdG</name>
+        <style>border: 1px solid #96bcdc; background-color: #FBFBFB;</style>
+        <sys_class_name>sys_app_category</sys_class_name>
+        <sys_created_by>adminsanti</sys_created_by>
+        <sys_created_on>2017-06-22 10:06:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f209148537a7f6001acdf01643990e12</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UdG</sys_name>
+        <sys_package display_value="Comu UdG" source="x_udg_comu">b4e6b90edb1332009fd1f57eaf961984</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Comu UdG">b4e6b90edb1332009fd1f57eaf961984</sys_scope>
+        <sys_update_name>sys_app_category_f209148537a7f6001acdf01643990e12</sys_update_name>
+        <sys_updated_by>adminsanti</sys_updated_by>
+        <sys_updated_on>2017-06-22 10:06:29</sys_updated_on>
+    </sys_app_category>
+</record_update>
