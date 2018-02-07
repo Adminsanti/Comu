@@ -5,27 +5,27 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>13eb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>38c8c28fdb76cb009fd1f57eaf9619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email</element>
+            <element>type</element>
             <position>1</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>93eb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>74c8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>17eb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>f4c8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,69 +47,55 @@
             <element>manager</element>
             <position>3</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>97eb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>78c8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>gestiona_accions_de_millora</element>
+            <element>email</element>
             <position>4</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>1beb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>f8c8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>gestiona_casos</element>
-            <position>5</position>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>9beb5702371b32001acdf01643990e10</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>1feb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>7cc8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-06-13 16:35:28</sys_created_on>
-            <sys_id>9feb5702371b32001acdf01643990e10</sys_id>
+            <sys_created_on>2017-12-07 12:45:48</sys_created_on>
+            <sys_id>fcc8c28fdb76cb009fd1f57eaf9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_comu_grup" sys_domain="global" view="Default view">f75ff106db5332009fd1f57eaf961916</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 16:35:28</sys_updated_on>
+            <sys_updated_on>2017-12-07 12:45:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -125,7 +111,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f75ff106db5332009fd1f57eaf961916</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_name>x_udg_comu_grup</sys_name>
             <sys_overrides/>
             <sys_package display_value="Comu UdG" source="x_udg_comu">b4e6b90edb1332009fd1f57eaf961984</sys_package>
@@ -134,7 +120,7 @@
             <sys_scope display_value="Comu UdG">b4e6b90edb1332009fd1f57eaf961984</sys_scope>
             <sys_update_name>sys_ui_section_f75ff106db5332009fd1f57eaf961916</sys_update_name>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-06-13 09:51:05</sys_updated_on>
+            <sys_updated_on>2018-02-07 11:36:02</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

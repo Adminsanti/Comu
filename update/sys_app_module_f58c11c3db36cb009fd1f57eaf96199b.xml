@@ -6,47 +6,43 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="task">active=true^assignment_group=javascript:getMyGroups()^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="=" or="false" value="javascript:getMyGroups()"/>
-            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Meves i meus grups orfes</mobile_title>
+        <mobile_title>Home</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>task</name>
-        <order>150</order>
+        <name/>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>home.do</query>
         <report/>
         <roles/>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
-        <sys_created_on>2017-06-13 09:38:09</sys_created_on>
+        <sys_created_on>2017-12-07 09:32:53</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2eebb142db5332009fd1f57eaf9619fe</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Orfes dels meus grups</sys_name>
+        <sys_id>f58c11c3db36cb009fd1f57eaf96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
         <sys_overrides/>
         <sys_package display_value="Comu UdG" source="x_udg_comu">b4e6b90edb1332009fd1f57eaf961984</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Comu UdG">b4e6b90edb1332009fd1f57eaf961984</sys_scope>
-        <sys_update_name>sys_app_module_2eebb142db5332009fd1f57eaf9619fe</sys_update_name>
+        <sys_update_name>sys_app_module_f58c11c3db36cb009fd1f57eaf96199b</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-12-12 16:01:34</sys_updated_on>
+        <sys_updated_on>2017-12-07 09:32:53</sys_updated_on>
         <timeline_page/>
-        <title>Orfes dels meus grups</title>
+        <title>Home</title>
         <uncancelable>false</uncancelable>
-        <view_name>Meves i meus grups sense assignar</view_name>
+        <view_name/>
         <window_name/>
     </sys_app_module>
 </record_update>
